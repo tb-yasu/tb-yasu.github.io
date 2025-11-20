@@ -1,3 +1,5 @@
+<img src="images/ChatGPT\ Image\ 2025年11月14日\ 16_46_18.png" alt="Deep OpenReview Research" style="width:100%; height:auto; border-radius:12px;">
+
 ## What You'll Learn
 
 - How to find truly relevant papers from thousands of accepted papers
