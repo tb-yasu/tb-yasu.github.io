@@ -1,5 +1,3 @@
-Introducing Deep OpenReview Research for Efficient Discovery and Analysis of Conference Papers
-
 ## What You'll Learn
 
 - How to find truly relevant papers from thousands of accepted papers
@@ -208,9 +206,10 @@ We aim to reduce paper survey time from days to minutes or tens of minutes.
 
 **Links**
 
-- GitHub Repository (English): https://github.com/tb-yasu/deep-openreview-research
-- GitHub Repository (Japanese): https://github.com/tb-yasu/deep-openreview-research-ja
-- License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+## Links
+- [GitHub Repository (English)](https://github.com/tb-yasu/deep-openreview-research)
+- [GitHub Repository (Japanese)](https://github.com/tb-yasu/deep-openreview-research-ja)
+- [License: CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - Requirements: Python 3.12+, OpenAI API Key
 
 For questions, please visit the GitHub Issues page of each repository.
