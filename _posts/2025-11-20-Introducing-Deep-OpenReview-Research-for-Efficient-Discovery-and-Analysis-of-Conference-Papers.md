@@ -176,7 +176,7 @@ The key strength of Deep OpenReview Research is its full utilization of the Open
 
 **Q: What are the processing time and cost?**
 
-A: For evaluating 100 papers with GPT-4o-mini, depending on prompt design, it is designed to operate in approximately 5-10 minutes at a cost of $0.05-0.1.
+A: For evaluating 100 papers with GPT-4o-mini, depending on prompt design, it is designed to operate in approximately 1-2 minutes at a cost of $0.05-0.1.
 
 **Q: Can it be used offline?**
 
