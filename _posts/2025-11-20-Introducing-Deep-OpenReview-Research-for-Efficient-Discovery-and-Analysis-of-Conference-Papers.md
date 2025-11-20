@@ -204,8 +204,6 @@ We aim to reduce paper survey time from days to minutes or tens of minutes.
 
 ---
 
-**Links**
-
 ## Links
 - [GitHub Repository (English)](https://github.com/tb-yasu/deep-openreview-research)
 - [GitHub Repository (Japanese)](https://github.com/tb-yasu/deep-openreview-research-ja)
