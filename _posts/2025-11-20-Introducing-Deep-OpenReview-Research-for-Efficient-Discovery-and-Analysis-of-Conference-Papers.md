@@ -1,10 +1,3 @@
----
-layout: default
-title: "Introducting Deep OpenReview Research for Efficient Discovery and Analysis of Conference Papers"
-date: 2025-11-20
-og_image: /images/deepresearch.png
----
-
 <img src="/images/deepresearch.png" alt="Deep OpenReview Research" style="width:100%; height:auto; border-radius:12px;">
 
 ## What You'll Learn
@@ -134,7 +127,7 @@ Python 3.12+, LangGraph/LangChain, OpenAI GPT-4, OpenReview API
 ```bash
 git clone https://github.com/tb-yasu/deep-openreview-research.git
 cd deep-openreview-research
-python -m venv venv && source venv/bin/activate
+python -m venv venvsource venv/bin/activate
 pip install -r requirements.txt
 
 # Set OpenAI API key in .env file
