@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Introduction to Deep OpenReview Research"
+date: 2025-11-20
+og_image: /images/deepresearch.png
+---
+
 <img src="/images/deepresearch.png" alt="Deep OpenReview Research" style="width:100%; height:auto; border-radius:12px;">
 
 ## What You'll Learn
