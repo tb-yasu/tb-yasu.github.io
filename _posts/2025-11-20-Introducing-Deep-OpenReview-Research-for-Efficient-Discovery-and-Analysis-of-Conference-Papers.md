@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Introduction to Deep OpenReview Research"
+title: "Introducting Deep OpenReview Research for Efficient Discovery and Analysis of Conference Papers"
 date: 2025-11-20
 og_image: /images/deepresearch.png
 ---
