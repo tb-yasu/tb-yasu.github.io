@@ -24,8 +24,6 @@ Furthermore, OpenReview contains valuable information such as Meta Reviews and D
 
 To address this problem, we developed **Deep OpenReview Research**.
 
-**Note**: This tool is under active development, and quantitative validation of paper evaluation accuracy is an ongoing task. Scoring methods are subject to discussion. We recommend using AI evaluation results as reference information and having human researchers make final judgments on critical research decisions.
-
 ## The Solution: Deep OpenReview Research
 
 An AI-powered paper discovery and analysis agent targeting accepted papers on OpenReview. It combines OpenReview API with LLMs to automatically discover papers related to your research interests, rank them, and generate comprehensive reports.
