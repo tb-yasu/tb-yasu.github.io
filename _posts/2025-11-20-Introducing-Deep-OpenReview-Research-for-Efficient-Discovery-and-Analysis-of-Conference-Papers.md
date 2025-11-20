@@ -1,4 +1,4 @@
-<img src="./images/deepresearch.png" alt="Deep OpenReview Research" style="width:100%; height:auto; border-radius:12px;">
+<img src="/images/deepresearch.png" alt="Deep OpenReview Research" style="width:100%; height:auto; border-radius:12px;">
 
 ## What You'll Learn
 
